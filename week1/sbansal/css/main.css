@@ -1,0 +1,17 @@
+h2  {
+    color: green;
+    width: 16
+    font-size:12px
+}
+
+.center {
+    text-align: center;
+    color: red;
+    font-size:16px
+}
+
+#para1 {
+    text-align: left;
+    color: cyan;
+    font-size:18px
+}
