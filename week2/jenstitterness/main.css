@@ -1,0 +1,20 @@
+.convertContainer {
+    border: 5px solid black;
+    border-radius: 25px;
+    width: 250px;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+.convertContainer *{
+    margin: 0 auto;
+}
+
+.convertContainer label, .convertContainer button {
+    display: block;
+    margin: 10px 0;
+}
+
+.convertContainer input[type=radio] {
+    display: inline-block;
+}
