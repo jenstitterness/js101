@@ -1,0 +1,4 @@
+div, button, img, label {
+    display: block;
+    margin-bottom: 15px;
+}
